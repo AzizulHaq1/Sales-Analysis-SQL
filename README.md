@@ -115,4 +115,4 @@ As part of my data analytics projects, I conducted a comprehensive analysis of c
 ## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
-- **Visualization:** PowerBI
+- **Visualization:** Power BI
